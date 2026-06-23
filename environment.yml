@@ -1,0 +1,31 @@
+name: hofavenv
+
+channels:
+
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+
+dependencies:
+
+  - pip
+
+  - python>=3.12
+
+  - pip:
+
+      - numpy>=2.0
+      - scipy>=1.17
+
+      - ipykernel
+      - jupyterlab
+      - matplotlib
+      - moviepy>=2.0
+
+      - sphinx
+      - myst-nb
+      - pydata-sphinx-theme
+      - sphinx-autoapi
+      - sphinx-design
+

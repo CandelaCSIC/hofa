@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+
+title: "HoFa"
+
+message: "If you would like to acknowledge this software in your academic work, please visit our website where you will find a suggested paper to cite."
+
+type: software
+
+authors:
+  - family-names: Candela, Gonzalez-Sanchez, Szegedy
+    given-names: Pablo,  Diego, Balazs
+    affiliation: CSIC, CNRS, Renyi AI Ltd.
+
+version: 0.1.0
+
+date-released: 2026-05-15
+
+repository-code: "https://github.com/CandelaCSIC/hofa"
+
+license: Apache-2.0

@@ -1,0 +1,83 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "hofa"
+
+version = "0.1.0"
+
+description = "This is an open source project to use higher-order Fourier analysis in applied scenarios."
+
+readme = "README.md"
+
+requires-python = ">=3.12"
+
+license = "Apache-2.0"
+license-files = ["LICENSE.txt"]
+
+authors = [
+  { name = "Pablo Candela, Diego Gonzalez-Sanchez, and Balazs Szegedy", email = "pablo.candela@icmat.es" },
+]
+
+keywords = [
+  "Higher-order Fourier analysis",
+  "Gowers norms",
+  "Nilsequences",
+  "Chirps",
+  "polynomial phase functions", 
+  "Fourier analysis", 
+  "sparse decompositions",
+]
+
+classifiers = [
+  "Development Status :: 4 - Beta",
+
+  "Intended Audience :: Science/Research",
+  "Natural Language :: English",
+
+  "Programming Language :: Python :: 3",
+
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+
+  "Operating System :: OS Independent",
+
+  "Topic :: Scientific/Engineering :: Mathematics",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+dependencies = [
+  "numpy>=2.0",
+  "scipy>=1.13"
+]
+
+
+[project.optional-dependencies]
+
+docs = [
+  "sphinx",
+  "myst-nb",
+  "sphinx-design",
+  "sphinx-autoapi",
+  "jupyterlab",
+  "ipykernel",
+  "matplotlib",
+  "pydata-sphinx-theme",
+  "moviepy"
+]
+
+
+[project.urls]
+Homepage = "https://hofa.es/"
+Repository = "https://github.com/CandelaCSIC/hofa"
+
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+
+[tool.setuptools.packages.find]
+where = ["src"]

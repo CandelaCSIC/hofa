@@ -1,0 +1,13 @@
+*.pyc
+/src/hofa/.ipynb_checkpoints
+/src/hofa/hofa_torch/.ipynb_checkpoints
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.frames
+.idea/
+docs/build/
+docs/source/autoapi/
+.Rhistory
+docs/build.zip
+/src/hofa.egg-info
+dist/

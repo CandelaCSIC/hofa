@@ -1,0 +1,16 @@
+.footer-funders {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem; /* space between logos */
+  padding: 0.5rem 0;
+}
+
+.footer-funders img {
+  max-height: 50px; /* adjust maximum height */
+  max-width: 120px; /* optional max width */
+  height: auto;
+  width: auto;
+  object-fit: contain;
+}
