@@ -453,8 +453,8 @@ Bibliography
 .. [CGSS2026-spec]
    Candela, P., González-Sánchez, D., and Szegedy B. (2026)
    *Spectral algorithms in higher-order Fourier analysis*
-   to appear in Forum of Mathematics, Sigma,
-   `doi:10.48550/arXiv.2501.12287 <https://doi.org/10.48550/arXiv.2501.12287>`_.
+   Forum of Mathematics, Sigma (2026), Vol. 14:e95 1–71,
+   `doi:10.1017/fms.2026.10238 <https://doi.org/10.1017/fms.2026.10238>`_.
 
 .. [CGSS2025-bounded-rank]
    Candela, P., González-Sánchez, D., and Szegedy B. (2026)

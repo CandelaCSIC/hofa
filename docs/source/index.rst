@@ -12,7 +12,6 @@ HoFa documentation
 
 HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
 
-
 .. note::
 
    This project is under active development.
@@ -97,6 +96,8 @@ HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
                :expand:
 
                To the developer's guide
+
+HoFa is developed in `GitHub <https://github.com/CandelaCSIC/hofa>`_ but the **official archival version** (DOI) is hosted in the `CSIC Institutional Repository <https://doi.org/10.20350/digitalCSIC/18509>`_.
 
 About the original authors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

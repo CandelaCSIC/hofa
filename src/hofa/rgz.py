@@ -6,9 +6,9 @@ Conventions
 -----------
 The following conventions are used for functions and data structures in this file:
 
-- Any finite abelian group :math:`Z` is isomorphic to :math:`Z/n_1Z \times Z/n_2Z \times ... \times Z/n_kZ`. Therefore, a function :math:`f: Z \to \mathbb{C}` is represented as a ``numpy.ndarray`` tensor with shape ``(n_1, n_2, ..., n_k)``.
+- Any finite abelian group :math:`Z` is isomorphic to :math:`\mathbb{Z}/n_1\mathbb{Z} \times \mathbb{Z}/n_2\mathbb{Z} \times ... \times \mathbb{Z}/n_k\mathbb{Z}`. Therefore, a function :math:`f: Z \to \mathbb{C}` is represented as a ``numpy.ndarray`` tensor with shape ``(n_1, n_2, ..., n_k)``.
   
-- A :math:`Z`-matrix, where :math:`Z = Z/n_1Z \times ... \times Z/n_kZ`, is represented as a ``numpy.ndarray`` tensor with shape ``(n_1, ..., n_k, n_1, ..., n_k)``. For example, for a :math:`Z`-function :math:`f: Z \to \mathbb{C}`, the tensor product :math:`f\otimes \overline{f}`, defined as :math:`f\otimes \overline{f}(x,y)=f(x)\overline{f(y)}`, is a :math:`Z`-matrix.
+- A :math:`Z`-matrix, where :math:`Z = \mathbb{Z}/n_1\mathbb{Z} \times ... \times \mathbb{Z}/n_k\mathbb{Z}`, is represented as a ``numpy.ndarray`` tensor with shape ``(n_1, ..., n_k, n_1, ..., n_k)``. For example, for a :math:`Z`-function :math:`f: Z \to \mathbb{C}`, the tensor product :math:`f\otimes \overline{f}`, defined as :math:`f\otimes \overline{f}(x,y)=f(x)\overline{f(y)}`, is a :math:`Z`-matrix.
 
 - The :math:`Z`-diagonal at height :math:`t\in Z` of a :math:`Z`-matrix :math:`M` is the function :math:`x\mapsto M(x+t,x)`. We regard such a function as a subset of the :math:`Z`-matrix :math:`M` corresponding to the indices :math:`(x+t,x)` for :math:`x\in Z`. When we talk about the set of :math:`Z`-diagonals, we refer to the set of functions :math:`x\mapsto M(x+t,x)` for :math:`t\in Z`.
 

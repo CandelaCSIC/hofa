@@ -41,7 +41,8 @@ For more introduction and background on the theory of higher-order Fourier analy
 
 - **Website:** https://hofa.es
 - **Full installation guide:** https://hofa.es/getting_started/installation.html
-- **Source Code:** https://github.com/CandelaCSIC/hofa
+- **Source Repository:** https://github.com/CandelaCSIC/hofa
+- **Archival Repository (DOI):** https://doi.org/10.20350/digitalCSIC/18509 *(CSIC Institutional Repository)*
 - **User guide:** https://hofa.es/user_guide/user_guide_index.html
 - **License:** https://hofa.es/license.html
 - **Recommended citation:** https://hofa.es/citing_hofa.html

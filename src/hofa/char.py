@@ -6,7 +6,7 @@ Conventions
 -----------
 The following conventions are used for functions and data structures in this file:
 
-- Any finite abelian group :math:`Z` is isomorphic to :math:`Z/n_1Z \times Z/n_2Z \times ... \times Z/n_kZ`. Therefore, a function :math:`f: Z \to \mathbb{C}` is represented as a ``numpy.ndarray`` tensor with shape ``(n_1, n_2, ..., n_k)``.
+- Any finite abelian group :math:`Z` is isomorphic to :math:`\mathbb{Z}/n_1\mathbb{Z} \times \mathbb{Z}/n_2\mathbb{Z} \times ... \times \mathbb{Z}/n_k\mathbb{Z}`. Therefore, a function :math:`f: Z \to \mathbb{C}` is represented as a ``numpy.ndarray`` tensor with shape ``(n_1, n_2, ..., n_k)``.
 
 - Sometimes we abreviate ``numpy`` by ``np``.
 """
