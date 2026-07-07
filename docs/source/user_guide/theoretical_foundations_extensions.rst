@@ -115,7 +115,7 @@ Additionally, nilsequences are usually required to have **bounded complexity**, 
 
 Nilsequences turned out to be fundamental in higher-order Fourier analysis, in particular because they enabled a first inverse theorem, valid for all Gowers norms, capturing the structure of functions with large :math:`U^k`-norm. This was the inverse theorem for functions on finite cyclic groups (or intervals of integers) proved by Green, Tao, and Ziegler (see [GreenTaoZiegler2012]_) which states essentially that if a function :math:`f:\mathbb{Z}/n\mathbb{Z}\to \mathbb{C}` is *1-bounded* (i.e. :math:`|f(x)|\leq 1` for all  :math:`x`) and has non-trivially large Gowers :math:`U^k`-norm, then :math:`f` correlates non-trivially with some :math:`(k-1)`-step nilsequence of bounded complexity.
 
-The study of inverse theorems remains very active, with questions exploring this topic in general finite abelian groups in qualitative directions, or works seeking quantitative results improving the bounds in the inverse theorems. The former qualitative direction includes the topic of the Jamneshan--Tao conjecture; we do not detail this topic here but refer to the work [JamneshanTao2023]_ and subsequent papers. The latter quantitative direction includes important progress on bounds in various settings, in particular the breakthrough [LengSahSawhney2024]_ in the integer setting.
+The study of inverse theorems remains very active, with questions exploring this topic in general finite abelian groups in qualitative directions, or works seeking quantitative results improving the bounds in the inverse theorems. The former qualitative direction includes the topic of the Jamneshan--Tao conjecture; we do not detail this topic here but refer to the work [JamneshanTao2023]_ and subsequent papers. The latter quantitative direction includes important progress on bounds in various settings, in particular the breakthrough [LengSahSawhney2024]_ in the integer setting, and works on quantitative bounds in the finite-field setting including [Milićević2020]_ and [GowersMilićević2024]_.
 
 
 Regularity lemmas
@@ -146,7 +146,7 @@ Related foundational work was carried out independently by Ziegler, who studied 
 
 **Various settings**: in early developments of higher-order Fourier analysis, many central results focused on specific settings, consisting in special families of finite abelian groups which were highly relevant for notable applications. For instance, the family of finite cyclic groups, in which the Green--Tao--Ziegler inverse theorem was proved, was of interest for number theoretic applications such as the Green--Tao theorem. This became known as the **integer setting**.
 
-Another important setting focused on the family of finite vector spaces over a fixed finite field, which became known as the **finite-field setting**. This attracted interest for its connections with topics in theoretical computer science (notably in the case of vector spaces :math:`\mathbb{F}_2^n`), but also because of the more algebraic nature of this setting (compared to the integer setting) which often simplified the phenomena of higher-order Fourier analysis. This setting was promoted notably by Green, and principal results in this direction included **inverse theorems** for Gowers norms over finite fields proved by Tao and Ziegler; see [TaoZiegler2010FiniteFields]_ and [TaoZiegler2012LowChar]_ (see also a more recent alternative proof [CGSS2023-p-hom]_). Like the integer setting, this setting also remains active, with various applications pursued especially in coding theory and in quantum computing, as we will see below.
+Another important setting focused on the family of finite vector spaces over a fixed finite field, which became known as the **finite-field setting**. This attracted interest for its connections with topics in theoretical computer science (notably in the case of vector spaces :math:`\mathbb{F}_2^n`), but also because of the more algebraic nature of this setting (compared to the integer setting) which often simplified the phenomena of higher-order Fourier analysis. This setting was promoted notably by Green, and principal results in this direction included **inverse theorems** for Gowers norms over finite fields proved by Tao and Ziegler; see [TaoZiegler2010FiniteFields]_ and [TaoZiegler2012LowChar]_ (see also a more recent alternative proof [CGSS2023-p-hom]_). Like the integer setting, this setting also remains active, with various advances in the quantitative setting; see [Milićević2020]_, [Milićević2024]_, and [GowersMilićević2024]_ and with various applications pursued especially in coding theory and in quantum computing, as we will see below.
 
 A unifying framework: nilspace theory
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -490,6 +490,12 @@ Bibliography
    *A new proof of Szemerédi’s theorem*.
    Geom. Funct. Anal. 11, no. 3, 465–588.
 
+.. [GowersMilićević2024]
+   Gowers, W. T. and Milićević, L. (2024)
+   *An inverse theorem for Freiman multi-homomorphisms*
+   arXiv preprint.
+   `doi:10.48550/arXiv.2002.11667 <https://doi.org/10.48550/arXiv.2002.11667>`_.
+
 .. [Green2004]
    Green, B. (2004)
    *A Szemeredi-type regularity lemma in abelian groups, with applications*.
@@ -572,6 +578,18 @@ Bibliography
    Leng, J., Sah, A., and Sawhney, M. (2024)
    Quasipolynomial bounds on the inverse theorem for the gowers :math:`U^{s+1}[N]`-norm
    Preprint.  arXiv:2402.17994v3 
+
+.. [Milićević2020]
+   Milićević, L. (2020)
+   Quantitative inverse theorem for Gowers uniformity norms :math:`U^{5}` and :math:`U^{6}` in :math:`\mathbb{F}_2^n`.
+   Canadian Journal of Mathematics 76 (2024), 1289-1338.
+   `doi:10.4153/S0008414X23000391 <https://doi.org/10.4153/S0008414X23000391>`_.
+
+.. [Milićević2024]
+   Milićević, L. (2024)
+   Quasipolynomial inverse theorem for the :math:`U^{4}(\mathbb{F}_p^n)` norm.
+   arXiv preprint
+   `doi:10.48550/arXiv.2410.08966 <https://doi.org/10.48550/arXiv.2410.08966>`_.
 
 .. [Roth1953]
    Roth, K. F. (1953)
