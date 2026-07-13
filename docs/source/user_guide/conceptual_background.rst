@@ -41,7 +41,7 @@ capture its structure efficiently.
 Classical Fourier analysis through a different lens: the Gowers :math:`U^2`-norm
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To introduce this concept, let us consider a typical case of a periodic 1-dimensional signal where we have a sample of :math:`n` points. We represent such a signal with a function :math:`f:\mathbb{Z}/n\mathbb{Z}\to \mathbb{C}`. Recall that :math:`\mathbb{Z}/n\mathbb{Z}` is simply the set of integers :math:`\{0,\ldots,n-1\}` with addition *modulo* :math:`n` (meaning that if we sum two elements of :math:`\{0,\ldots,n-1\}` and the sum is greater than :math:`n`, then we subtract :math:`n` from the sum). Then, the Gowers :math:`U^2`-norm is defined as follows.
+To introduce this concept, let us consider a typical case of a periodic 1-dimensional signal where we have a sample of :math:`n` points. We represent such a signal with a function :math:`f:\mathbb{Z}/n\mathbb{Z}\to \mathbb{C}`. Recall that :math:`\mathbb{Z}/n\mathbb{Z}` is simply the set of integers :math:`\{0,\ldots,n-1\}` with addition *modulo* :math:`n` (meaning that if we sum two elements of :math:`\{0,\ldots,n-1\}` and the result is greater than or equal to :math:`n`, then we subtract :math:`n` from the sum). Then, the Gowers :math:`U^2`-norm is defined as follows.
 
 **The Gowers** :math:`U^2`-**norm**: Let :math:`f:\mathbb{Z}/n\mathbb{Z}\to \mathbb{C}` be a function. The Gowers :math:`U^2`-norm of :math:`f` is given by the formula
 
