@@ -251,9 +251,9 @@ What the HoFa package can do
 Once we understand how higher-order Fourier analysis handles quadratic (and higher-order)
 polynomial phase functions, the natural question arises:
 
-**What does the HoFa package do?**
+**What you can do with the HoFa package**
 
-The straightforward answer is that HoFa provides the following core functionalities:
+In brief, HoFa provides the following core functionalities:
 
 1. **Compute Gowers norms** of a function.
 2. **Remove the** :math:`U^k` **noise term** from a function.
