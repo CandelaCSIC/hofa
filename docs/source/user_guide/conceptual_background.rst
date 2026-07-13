@@ -245,13 +245,13 @@ And, possibly more interestingly, we have the following:
 then we have that :math:`|\langle g_\ell, g_{\ell'}\rangle_{U^k}|` is also *small*. Note that this formula is very similar to the one defining the :math:`U^k`-norm, and this is not a coincidence. Indeed, the formula for the product :math:`\langle g_\ell, g_{\ell'}\rangle_{U^k}` can be obtained from that of (the :math:`2^k` power of) the :math:`U^k`-norm replacing one of the functions in half of the product and the other function in the opposite half of the product. In particular, note that :math:`\langle f, f\rangle_{U^k} = \|f\|_{U^k}^{2^k}`.
 
 
-What the HoFa package can do
+What you can do with the HoFa package
 --------------------------------------
 
 Once we understand how higher-order Fourier analysis handles quadratic (and higher-order)
 polynomial phase functions, the natural question arises:
 
-**What you can do with the HoFa package**
+**What can one do with the HoFa package?**
 
 In brief, HoFa provides the following core functionalities:
 
