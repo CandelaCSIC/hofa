@@ -9,7 +9,7 @@ Thank you for your interest in contributing to the **HoFa** package! We hope tha
 
 At this early stage of development, direct contributions to the repository are not yet possible, as we are still working to establish a sustainable process for managing such contributions.
 
-However, we would be glad and grateful to hear from you! If you would like to:
+However, we would be delighted to hear from you! If you would like to:
 
 - report a bug,
 
