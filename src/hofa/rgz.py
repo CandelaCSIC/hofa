@@ -497,7 +497,7 @@ class StandardLayerRegularizer(LayerRegularizer):
 
 class RegularizationResult(NamedTuple):
     r"""
-    A class containing the output of the regularition algorithm
+    A class containing the output of the regularization algorithm
 
     This class contains the 3 outputs of the regularization algorithm.
     That is, the regularization of the function, the eigenvalues
