@@ -5,7 +5,7 @@ used as weights for different eigenspaces depending on their eigenvalues. See th
 Conventions
 -----------
 
-- Sometimes we abreviate ``numpy`` by ``np``.
+- Sometimes we abbreviate ``numpy`` as ``np``.
 """
 import numpy as np
 
