@@ -11,7 +11,7 @@ Conceptual background of higher-order Fourier analysis
    :backlinks: entry
 
 .. note::
-   This page provides an intuitive mathematical explanation of central concepts in higher-order Fourier analysis. The goal is not to be exhaustive or fully rigorous, but to provide a coherent mental model of what is going on deep below the grounds of the functionality of the software package. For precise mathematical results and references, please see :doc:`../user_guide/theoretical_foundations_extensions`. 
+   This page provides an intuitive mathematical explanation of central concepts in higher-order Fourier analysis. The goal is not to be exhaustive or fully rigorous, but to provide a coherent vision of the ideas underlying the functionality of the software package. For precise mathematical results and references, please see :doc:`../user_guide/theoretical_foundations_extensions`. 
 
 Classical Fourier analysis decomposes signals into *linear* harmonics (fixed-frequency sine and cosine waves). However, this framework struggles with signals whose *frequency content itself varies over time*, such as chirps.
 In a chirp, the instantaneous frequency changes (e.g., linearly or quadratically),
