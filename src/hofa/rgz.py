@@ -16,7 +16,7 @@ The following conventions are used for functions and data structures in this fil
 
 - An operator on :math:`Z`-functions is a function :math:`K: \mathbb{C}^{Z} \to \mathbb{C}^{Z}`. Given a :math:`Z`-matrix :math:`M` and an operator :math:`K`, we let :math:`\mathcal{K}(M)` be the :math:`Z`-matrix defined by replacing each :math:`Z`-diagonal :math:`M(\cdot+t,\cdot)` by :math:`K(M(\cdot+t,\cdot))`.
 
-- Sometimes we abreviate ``numpy`` by ``np``.
+- Sometimes we abbreviate ``numpy`` as ``np``.
 """
 import numpy as np
 import scipy
