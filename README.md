@@ -52,11 +52,11 @@ For more introduction and background on the theory of higher-order Fourier analy
 
 ## Authors 
 
-- [Pablo Candela](https://pablocandela.es/),
+- [Pablo Candela](https://pablocandela.es/)
 
-- [Diego González-Sánchez](https://dglez91.github.io/), and 
+- [Diego González-Sánchez](https://dglez91.github.io/)
 
-- [Balázs Szegedy](https://users.renyi.hu/~szegedyb/).
+- [Balázs Szegedy](https://users.renyi.hu/~szegedyb/)
 
 First released in June 2026
 
