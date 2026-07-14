@@ -53,7 +53,7 @@ HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
          :class-card: intro-card
          :shadow: md
 
-         This guide delivers comprehensive coverage of the core concepts of HoFa, accompanied by valuable context and detailed explanations. It assumes concepts from the starting guide.
+         This guide delivers comprehensive coverage of the core concepts of HoFa, accompanied by valuable context and detailed explanations. This section assumes concepts from the starting guide.
 
          +++
 
