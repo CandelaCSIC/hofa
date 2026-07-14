@@ -37,7 +37,7 @@ HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
          :class-card: intro-card
          :shadow: md
 
-         Here you will find an accessible introduction to *higher-order Fourier analysis*, an area of mathematics that has produced major advances since the 2000s. Furthermore, you will learn the basics of how to use it for applications via the HoFa package.
+         Here you will find an accessible introduction to *higher-order Fourier analysis*, an area of mathematics that has produced major advances since the 2000s. You will also learn the basics of how to use this theory for applications via the HoFa package.
 
          +++
 
@@ -69,7 +69,7 @@ HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
          :class-card: intro-card
          :shadow: md
 
-         A detailed description of all methods and classes in HoFa. This assumes familiarity with the key concepts and ideas of the starting guide and the user guide.
+         A detailed description of all methods and classes in HoFa. This section assumes familiarity with the key concepts and ideas of the starting guide and the user guide.
 
          +++
 
@@ -85,7 +85,7 @@ HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
          :class-card: intro-card
          :shadow: md
 
-         Help us to develop HoFa! 
+         Help us develop HoFa! 
 
          +++
 
