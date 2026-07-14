@@ -58,7 +58,7 @@ For more introduction and background on the theory of higher-order Fourier analy
 
 - [Balázs Szegedy](https://users.renyi.hu/~szegedyb/).
 
-First released on June 2026
+First released in June 2026
 
 ## Funding
 
