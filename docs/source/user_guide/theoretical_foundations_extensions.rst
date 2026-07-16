@@ -398,6 +398,11 @@ Bibliography
    *Nilspaces, nilmanifolds and their morphisms*,
    `arXiv:1009.3825v3 <https://doi.org/10.48550/arXiv.1009.3825>`_.
 
+.. [ABCDG2026]
+   Arunachalam, S., Briët, J., Castro-Silva, D., Dutt. A. and Gur, T. (2026)
+   *An algorithmic Polynomial Freiman-Ruzsa theorem*. 
+   `ArXiV preprint <https://arxiv.org/abs/2604.04547>`_.
+
 .. [BrietCastroSilva2026]
    Briët, J. and Castro-Silva, D. (2026)
    *A near-optimal quadratic Goldreich-Levin algorithm (extended abstract)*.
@@ -462,7 +467,6 @@ Bibliography
    accepted for publication in Discrete Analysis,
    `doi:10.48550/arXiv.2311.13899 <https://doi.org/10.48550/arXiv.2311.13899>`_.
 
-
 .. [ErdosTuran1936]
    Erdős, P., and Turán, P. (1936)
    On Some Sequences of Integers.
@@ -526,7 +530,6 @@ Bibliography
    *An arithmetic regularity lemma, an associated counting lemma, and applications*.
    In: Bárány, I., Solymosi, J., Sági, G. (eds) An Irregular Mind. Bolyai Society Mathematical Studies, vol 21. Springer, Berlin, Heidelberg. 
    `doi:/10.1007/978-3-642-14444-8_7 <https://doi.org/10.1007/978-3-642-14444-8_7>`_.
-
 
 .. [GutmanMannersVarju2020]
    Gutman, Y., Manners, J., and Varjú, P. (2020)
