@@ -12,6 +12,8 @@ HoFa documentation
 
 HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
 
+Higher-order Fourier analysis is a theory that generalizes Fourier analysis. Roughly speaking, while Fourier analysis deals with representing functions in terms of Fourier characters, e.g. functions of the form :math:`\exp(2\pi i \xi\cdot x)`, higher-order Fourier analysis deals with representing functions in terms of *higher-order Fourier characters*, including functions of the form :math:`\exp(2\pi i P(x))` for polynomials :math:`P`. Such higher-order representations can capture more subtle structural aspects of the function that can often be missed by looking only at the function's dominant Fourier characters. These insights have already had major impact in pure mathematics, and the present project aims to facilitate exploration and application of these insights in more applied settings.
+
 .. note::
 
    This project is under active development.
@@ -37,7 +39,7 @@ HoFa is a Python library for **H**\igher-**o**\rder **F**\ourier **a**\nalysis.
          :class-card: intro-card
          :shadow: md
 
-         Here you will find an accessible introduction to *higher-order Fourier analysis*, an area of mathematics that has produced major advances since the 2000s. You will also learn the basics of how to use this theory for applications via the HoFa package.
+         Here you will find an accessible introduction to *higher-order Fourier analysis*. You will also learn the basics of how to use this theory for applications via the HoFa package.
 
          +++
 

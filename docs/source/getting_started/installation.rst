@@ -1,8 +1,12 @@
 Installation
 =============================
 
+For users new to Python or programming, see our 
+
 .. toctree::
    :maxdepth: 1
+
+   beginner_installation
 
 .. _pip-installation:
 

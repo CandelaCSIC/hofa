@@ -2,7 +2,7 @@ Getting started
 ==============================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
    installation
    quick_intro
