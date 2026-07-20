@@ -125,7 +125,5 @@ Funding
 ^^^^^^^^^^^^^^^^
 
 This work was supported by funding from project `PID2024-156180NB-I00 <https://matematicas.uam.es/~fernando.chamizo/grant/overview.html>`_ (MICIU/AEI and the European Union).
-The second-named author is funded by `HORIZON-MSCA-2024-PF-01, AlgHOF 101202161 <https://doi.org/10.3030/101202161>`_ funded by the European Union [#f1]_. 
+The second-named author is funded by `HORIZON-MSCA-2024-PF-01, AlgHOF 101202161 <https://doi.org/10.3030/101202161>`_ funded by the :abbr:`European Union (Views and opinions expressed are those of the author(s) only and do not reflect those of the European Union or the European Commission. Neither the European Union nor the European Commission can be held responsible for them.)`.
 The third-named author was partially supported by the Hungarian Ministry of Innovation and Technology NRDI Office within the framework of the `Artificial Intelligence National Laboratory Program (MILAB, RRF-2.3.1-21-2022-00004). <https://ai.renyi.hu/>`_ 
-
-.. [#f1] Views and opinions expressed are those of the author(s) only and do not reflect those of the European Union or the European Commission. Neither the European Union nor the European Commission can be held responsible for them.
