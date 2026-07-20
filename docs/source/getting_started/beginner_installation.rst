@@ -61,7 +61,7 @@ Now we need to ``activate`` the environment, which will allow us to work with it
 
    conda activate hofavenv
 
-Note that the you will see now a ``(hofavenv)`` at the beginning of your terminal command line. This means that the environment is correctly activated and we can start working with it.
+Note that now you will see a ``(hofavenv)`` at the beginning of your terminal command line. This means that the environment is correctly activated and we can start working with it.
 
 Step 2: Install Core Dependencies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
