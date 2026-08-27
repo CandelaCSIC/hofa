@@ -6,7 +6,7 @@
 HoFa documentation
 ================================
 
-**Version:** 0.1.0
+**Version:** 0.1.1
 
 **Useful links:** :doc:`getting_started/installation`, `Source repository <https://github.com/CandelaCSIC/hofa>`_
 

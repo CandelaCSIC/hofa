@@ -12,5 +12,6 @@ Please read carefully all sections below **before** contributing to the package.
 
     licensing_of_contributions
     hofa_contributor_guidelines
+    hofa_maintainer_guidelines
     contributor_list
 

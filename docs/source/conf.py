@@ -9,7 +9,7 @@
 project = 'hofa'
 copyright = '2026, CSIC, CNRS, Rényi AI Ltd.'
 author = 'Pablo Candela, Diego Gonzalez-Sanchez, and Balazs Szegedy'
-release = '0.1.0'
+release = '0.1.1'
 
 
 # -- General configuration ---------------------------------------------------
